@@ -43,3 +43,4 @@ if __name__ == '__main__':
 # >>> db.session.scalars(query).all()
 # [<User susan>, <User john>]
 # (venv) $ flask shell
+# pip install flask-login
