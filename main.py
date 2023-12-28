@@ -44,3 +44,5 @@ if __name__ == '__main__':
 # [<User susan>, <User john>]
 # (venv) $ flask shell
 # pip install flask-login
+# set FLASK_DEBUG=1
+# It is extremely important that you never run a Flask application in debug mode on a production server.
